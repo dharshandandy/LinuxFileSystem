@@ -1,0 +1,10 @@
+ls - list contents
+cd - change the current directory
+mkdir - create directory
+touch - to create empty file
+rm - remove file
+rmdir - remove directory
+vi - write content in file if exists
+cat - view the content of file
+pwd - present working directory
+help - show the available commands 
